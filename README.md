@@ -21,3 +21,5 @@ OBS Freeze Filter(Ingame Agent select) - https://obsproject.com/forum/resources/
 
 Google Sheets Importer by Ben - https://github.com/DaBenjamins/obs-google-sheet-importer
 
+Fly Through videos are too large for github so here is a drive link. https://drive.google.com/file/d/1FKeZe6ciPkh8c70o5zh9o6RJ9gtlpJvk/view?usp=drive_link
+Thank you Magnum for the vids!
