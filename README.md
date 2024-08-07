@@ -17,7 +17,7 @@ OBS Image Async - https://obsproject.com/forum/resources/xobsasyncimagesource-as
 OBS Transition Table - https://obsproject.com/forum/resources/transition-table.1174/
 OBS Move - https://obsproject.com/forum/resources/move.913/
 OBS Countdown Clock - https://obsproject.com/forum/resources/ashmanix-countdown-timer.1610/
-OBS Freeze Filter(Ingame Agent select) - https://obsproject.com/forum/resources/freeze-filter.950/
+
 
 Google Sheets Importer by Ben - https://github.com/DaBenjamins/obs-google-sheet-importer
 
