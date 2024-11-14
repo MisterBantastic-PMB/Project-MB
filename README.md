@@ -7,7 +7,7 @@ This is a warning that not everything in the beta is entirely working and some i
 
 This Read me will be updated much more for future beta releases and updates.
 
-TEMP Control Sheet! https://docs.google.com/spreadsheets/d/1AeiBi4ZwfdKaDA8G_hb_hga8miF7oO6vb00HZ0cT_Ws/edit?usp=sharing
+TEMP Control Sheet! https://docs.google.com/spreadsheets/d/1lVqKTLBf43L6Qu2Cu2knlUJU9LWetsYm4Ald6_wORgo/edit?usp=sharing
 
 
 Requirements:
