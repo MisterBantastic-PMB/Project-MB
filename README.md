@@ -1,9 +1,9 @@
 # PMB_v5_Beta_7_28
  A Valorant Scoreboard Project and Stream Package
 
-This is a beta of v5. This is not meant to be directly used for streaming yet and is instead of large teaser of what is to come...
+This is a beta of Project MB. This is a test version that needs to be tested before full release but can be used to streams.
 
-This is a warning that not everything in the beta is entirely working and some issues are expected. If you notice anything please lmk in the discord in #Beta-feedback
+This is a warning that there could still be bugs in this version of the package. If you notice anything please lmk in the discord in #Beta-feedback
 
 This Read me will be updated much more for future beta releases and updates.
 
